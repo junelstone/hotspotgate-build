@@ -1,0 +1,4 @@
+flask>=3.0
+waitress>=3.0
+dnslib>=0.9.24
+pydivert>=2.1.0; sys_platform == "win32"
